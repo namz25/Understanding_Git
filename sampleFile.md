@@ -1,2 +1,2 @@
 # Sample File
-MERGR LINE AT MAIN BRANCH
+SOme text is here.
