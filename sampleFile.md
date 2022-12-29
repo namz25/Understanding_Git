@@ -1,4 +1,3 @@
 # Sample File
 SOme text is here.
-## ADDED LINE IN PYCHARM ##
- ** Just Hang in There **
+MERGING THIS localBranch and main BRANCH
